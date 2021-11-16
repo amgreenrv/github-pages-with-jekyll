@@ -1,10 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: GitHub Pages
+author: amgreenrv
+email: amgreen@redventures.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pulvinar massa arcu, non hendrerit justo fermentum eget. 
+Duis id ligula lacinia, accumsan dui sed, fringilla velit. In massa magna, rhoncus sit amet lacus ut, luctus feugiat neque. 
+Mauris suscipit orci sit amet felis faucibus, at dapibus ex luctus. Etiam lacinia massa eu condimentum gravida. Maecenas quis pulvinar tortor. 
+Cras viverra in justo sit amet volutpat. Donec molestie quam in dolor rhoncus lacinia. Duis ipsum diam, mattis eu scelerisque sed, elementum at mauris. 
+Nullam id elit consectetur, rhoncus nisi ullamcorper, laoreet mauris. Proin convallis sollicitudin sollicitudin. Nam faucibus luctus pharetra. 
+Aenean vel varius dolor, et rhoncus libero. Nulla convallis tortor a tellus ultricies, quis molestie magna ornare. Sed et malesuada tellus. 
+In vel finibus purus, et iaculis enim.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
